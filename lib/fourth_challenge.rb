@@ -19,4 +19,5 @@ def fourth_challenge
       ]
    }
   }
+  return epic_tragedy
 end
